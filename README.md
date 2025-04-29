@@ -12,6 +12,7 @@ Want a game removed? Just contact at contact@ghosty.im , but please don't cause 
 - Rooftop Snipers ✅
 - Stickman Hook ✅
 - Rooftop Snipers 2 🟧
+- Subway Surfers 🟧
 - Block Blast 🟥
 - Drive Mad 🟥
 - Iron Snout 🟥
