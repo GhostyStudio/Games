@@ -7,12 +7,13 @@ Want a game removed? Just contact at contact@ghosty.im , but please don't cause 
 ## Games
 
 - 2048 ✅
-- OvO ✅
 - Drift Boss ✅
-- Stickman Hook 🟧
-- Snake 🟥
-- Rooftop Snipers 🟥
-- Tiny Fishing 🟥
+- OvO ✅
+- Stickman Hook ✅
+- Rooftop Snipers 🟧
+- Rooftop Snipers 2 🟧
+- Block Blast 🟥
 - Drive Mad 🟥
 - Iron Snout 🟥
-- Block Blast 🟥
+- Snake 🟥
+- Tiny Fishing 🟥
