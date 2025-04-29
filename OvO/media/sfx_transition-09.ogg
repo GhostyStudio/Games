@@ -1,0 +1,886 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+<title>404 Status Code - Page Not Found</title>
+<meta name="Description" content="I was once found but now I am lost.">
+<link href="/newMC/css/styles.css" rel="stylesheet" type="text/css" />
+		<link rel="shortcut icon" href="https://www.mortgagecalculator.org/favicon.ico" />
+		<meta name="author" content="">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+		<meta name="format-detection" content="telephone=no">
+
+		<!-- design -->
+		<link href="https://www.mortgagecalculator.org/design/reset.css" rel="stylesheet">
+		<link href="https://www.mortgagecalculator.org/design/meanmenu.css" rel="stylesheet">
+		<link href="https://www.mortgagecalculator.org/design/style.css" rel="stylesheet">
+		<link href="https://www.mortgagecalculator.org/design/layout.css" rel="stylesheet">
+
+		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+		<!--[if lt IE 9]>
+		<script src="https://www.mortgagecalculator.org/scripts/html5shiv.js"></script>
+		<script src="https://www.mortgagecalculator.org/scripts/respond.min.js"></script>
+		<![endif]-->
+</head>
+
+
+
+<body>
+	<!--Begin header section-->
+	<header class="header-container">
+		<div class="wrapper">
+			<div class="logo">
+				<a href="https://www.mortgagecalculator.org/"><img src="https://www.mortgagecalculator.org/images/mortgage-calculator-logo.png" alt="Logo" /></a>
+			</div>
+		</div>
+	</header>
+	<!--End header section-->
+	<!--Begin Content section-->
+	<section class="content-container">
+		<section class="menu-area">
+			<div class="wrapper">
+				<div class="main-menu">
+					<nav>
+						<ul>
+                            
+							<li>
+								<a href="https://www.mortgagecalculator.org/">Mortgage Calcs</a>
+								<ul>
+									<li><a href="https://www.mortgagecalculator.org/calculators/mortgage-payment-calculator.php">30 yr Fixed</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calculators/which-loan-is-better.php">15 vs 30 yr</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calculators/second-mortgage-calculator.php">Second Mortgage</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/calculators/should-i-use-heloc.php">HELOC</a></li>
+								</ul>
+							</li>
+
+                            <li>
+								<a href="https://www.mortgagecalculator.org/calculators/should-i-refinance.php">Refinance</a>
+								<ul>
+									<li><a href="https://www.mortgagecalculator.org/calculators/should-i-refinance.php">Refi Calculator</a></li>
+									<li><a href="https://www.mortgagecalculator.org/helpful-advice/what-is-a-refinancing.php">Refi Advice</a></li>
+									<li><a href="https://www.mortgagecalculator.org/helpful-advice/costs-of-refinancing.php">Refi Costs</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/helpful-advice/top-reasons-to-refinance.php">When to Refi</a></li>
+								</ul>
+							</li>
+
+                            <li>
+								<a href="https://www.mortgagecalculator.org/mortgage-rates/">Rates</a>
+								<ul>
+									<li><a href="https://www.mortgagecalculator.org/calculators/what-is-the-real-apr-calculator.php">Real APR</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calcs/fha-mortgage-qualifier.php">FHA</a> </li>
+									<li><a href="https://www.mortgagecalculator.org/mortgage-rates/va.php">VA</a></li>
+									<li><a href="https://www.mortgagecalculator.org/mortgage-rates/jumbo.php">Jumbo</a></li>
+								</ul>
+							</li>
+
+							<li>
+                            	<a href="https://www.mortgagecalculator.org/calcs/arm.php">ARM</a>
+									<ul>
+                                    <li><a href="https://www.mortgagecalculator.org/calcs/fixed-vs-arm.php">Fixed vs ARM</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/calculators/interest-only-calculator.php">Interest Only</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calculators/interest-only--with-repayments-calculator.php">Interest Only w Extra</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/calcs/balloon.php">Balloon</a></li>
+                                    </ul>
+                            </li>
+
+							<li>
+								<a href="https://www.mortgagecalculator.org/calculators/affordability-calculator.php">Affordability</a>
+								<ul>
+									<li><a href="https://www.mortgagecalculator.org/calculators/buy-vs-rent-calculator.php">Rent or Buy</a></li>                                    
+                                    <li><a href="https://www.mortgagecalculator.org/calculators/how-much-income-do-i-need-to-qualify.php">Income Requirements</a></li>
+									<li><a href="https://www.mortgagecalculator.org/helpful-advice/mortgage-qualifications.php">Mortgage Qualification</a></li>
+								</ul>
+							</li>
+
+                            <li>
+								<a href="https://www.mortgagecalculator.org/calcs/savings.php">Save Money</a>
+								<ul>
+									<li><a href="https://www.mortgagecalculator.org/calculators/what-if-i-pay-more-calculator.php">Extra Payments</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calculators/standard-vs-bi-weekly-calculator.php">Biweekly</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calculators/should-i-pay-points-calculator.php">Paying Points</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/calculators/tax-benefits-calculator.php">Tax Benefits</a></li>
+								</ul>
+							</li>
+
+							<li><a href="https://www.mortgagecalculator.org/helpful-advice/index.php">Advice</a>
+								<ul>
+									<li><a href="https://www.mortgagecalculator.org/helpful-advice/mortgage-qualifications.php">Mortgage Qualification</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/helpful-advice/types-of-mortgages.php">Types of Mortgages</a></li>
+									<li><a href="https://www.mortgagecalculator.org/helpful-advice/bad-credit-mortgage-loans.php">Improving Credit</a></li>
+                            		<li><a href="https://news.mortgagecalculator.org/">Industry News</a></li>                                                                
+                            	</ul>
+                            </li>
+
+							<li>
+								<a href="https://www.mortgagecalculator.org/calculators/index.php">Financial Calcs</a>
+                                <ul>
+									<li><a href="https://www.mortgagecalculator.org/calcs/amortization.php">Amortization</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/calcs/loan.php">Personal Loans</a></li>
+                                    <li><a href="https://www.mortgagecalculator.org/calcs/car.php">Car</a></li>
+									<li><a href="https://www.mortgagecalculator.org/calcs/cd.php">CD</a></li>
+								</ul>
+							</li>
+                                                        
+							<li><a href="https://www.mortgagecalculator.org/free-tools/">Widgets</a>
+                            	<ul>
+									<li><a href="https://www.mortgagecalculator.org/free-tools/">Sidebar Calculators</a></li>
+									<li><a href="https://www.mortgagecalculator.org/free-tools/javascript-mortgage-calculator.php">Full Page Calc</a></li>
+									<li><a href="http://blog.mortgagecalculator.org/wp-mortgage-calculator-widget-plug-in-for-wordpress/">Wordpress</a></li>
+									<li><a href="https://www.mortgagecalculator.org/rates-widgets/mortgages/">Rate Tables</a></li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</section>
+
+		<section class="content-area">
+			<div class="wrapper">
+
+
+				<div class="sidebar">
+					<div class="block">
+
+                    <ul>
+						<li>
+							<div class="side-block"><div class="nomobilerates" style="width:290px; max-width:100%">								<h6>Current Market Rates</h6>
+
+<iframe src="https://widgets.icanbuy.com/RateAverages.aspx?pubid=100&showtabs=mortgage&size=300&hideratesbtn=1&hidealltabs=1&todayratefontsize=18&lastweekratefontsize=13&openlinksinnewpage=1&external=mortgagecalculator.org.left.404&redirecturl=https%3A%2F%2Fwww.mortgagecalculator.org%2Ffree-rate-quote%2F" border="0" width="100%" height="220px" scrolling="no"></iframe>
+
+</div></div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Refinancing Tools</h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/should-i-refinance.php">Refinance</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/should-i-use-heloc.php">HELOC</a></li>
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Mortgage Tools</h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/mortgage-payment-calculator.php">Payment Amount </a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/what-is-the-real-apr-calculator.php">Real APR </a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/second-mortgage-calculator.php">PMI vs 2nd Mortgage</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/mortgage-principal-calculator.php">Remaining Principal </a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/payment-per-thousand-calculator.php">Cost Per Thousand</a></li>
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Loan Qualification</h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/affordability-calculator.php">Home Affordability</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/how-much-income-do-i-need-to-qualify.php">Income Requirements</a></li>
+<li><a href="https://www.mortgagecalculator.org/calcs/fha-mortgage-qualifier.php">FHA Qualification</a></li> 
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Loan Comparison Tools</h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/which-loan-is-better.php">Best Home Loan</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/mortgage-length-calculator.php">Mortgage Length</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/should-i-pay-points-calculator.php">Calculate Points</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/buy-vs-rent-calculator.php">Rent vs Buy</a></li>
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Money Saving Tools</h6>
+
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calcs/cd.php">CDs </a></li>
+<li><a href="https://www.mortgagecalculator.org/calcs/fixed-annuity.php">Fixed Annuity </a></li>
+<li><a href="https://www.mortgagecalculator.org/calcs/annuity.php">Variable Annuity</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/standard-vs-bi-weekly-calculator.php">Bi-weekly</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/what-if-i-pay-more-calculator.php">Extra Payment</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/tax-benefits-calculator.php">Tax Benefits </a></li>
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Interest Only Loans</h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/interest-only-calculator.php">Interest Only </a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/interest-only--with-repayments-calculator.php">Interest + Pay Extra</a></li>
+<li><a href="https://www.mortgagecalculator.org/calcs/">Reverse Mortgages </a></li>
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>Credit Cards </h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/credit-card-minimum-payment.php">Minimum Credit Card Payments</a></li>
+<li><a href="https://www.mortgagecalculator.org/calculators/credit-card-payoff-goal.php">Pay Off Credit Cards</a></li>
+</ul>
+							</div>
+						</li>
+
+						<li>
+							<div class="side-block">
+
+<h6>More  Tools</h6>
+<ul>
+<li><a href="https://www.mortgagecalculator.org/calculators/canadian-mortgage-calculator.php">Canadian Mortgages</a></li>
+<li><a href="https://www.mortgagecalculator.org/download/">Desktop Mortgage Calculator</a></li>
+</ul>
+							</div>
+						</li>
+</ul>
+					<a class="close-btn" id="nav-close-btn" href="#top" title="Close">Return to Content</a>
+					</div>
+				</div>
+
+				<div class="content-right">
+					<a class="nav-btn" id="nav-open-btn" href="#nav" title="Sidebar">Navigation</a>
+
+		<div class="cal-block">
+<div class="cal-content">
+
+<a name="#top"></a>
+<!-- END LEFT NAVIGATION -->
+
+<!-- <div class="callout2" align="center">
+<h2>Free Mortgage Calculator for Your Website!</h2>
+<p><strong>Would your customers benefit from a free mortgage calculator on your website? Learn <a href="https://www.mortgagecalculator.org/free-tools/">how to add a calculator to your website</a> in less than a minute - FREE!</strong></p>
+</div> -->
+<div id="calc">
+
+
+
+
+
+<img src="https://www.mortgagecalculator.org/images/404-page-not-found.png" width="1300" height="149" />
+						<div class="black-block">
+<strong>Calculators to Help You Along Your Financial Journey</strong>							
+						</div>
+
+
+<h1>404 Error - Page Not Found</h1>
+<p align="center">The link you clicked was broken or the URL you typed into your browser does not exist.</p>
+<p align="center">Please <a href="https://www.mortgagecalculator.org/contact/#submitted">click here</a> to report this error.</p>
+
+
+<p align="center">Use the following search box to search our site.</p>
+
+
+ <form action="https://www.google.com/search"  method="get" name="searchform" target="_blank">
+<p align="center"><input name="sitesearch" type="hidden" value="mortgagecalculator.org">
+<input autocomplete="on" class="form-control search" name="q" id="qsearch" placeholder="Search our site" required  type="text">
+<button type="submit" class="styled-button">Search</button></p>
+
+</form>
+
+
+<p>Below is our financial calculators index. The navigation at the top of the page makes it easy to find additional calculators and other helpful financial advice.</p>
+
+<p align="center">Please <a href="https://www.mortgagecalculator.org/contact/#submitted">contact us</a> if there is something we can help you with.</p>
+
+
+<h1>Free Online Financial Calculators</h1>
+<p><p>We offer a wide array of online mortgage and personal finance calculation tools. The left navigation groups calculators by category, while a more extensive explanation of each calculator is below. Calculators featured below contain amortization tables, allow home buyers to generate a PDF report about their loan, and make it easy to email these reports.</p> Jump to a section:</p>
+
+<ul class="col-Count3 list-Check"><li><a href="#realestate">Real Estate</a></li>
+<li><a href="#currentmortgagerates">Current Mortgage Rates</a></li>
+<li><a href="#automotive">Automotive</a></li>
+<li><a href="#creditcards">Credit Cards</a></li>
+<li><a href="#debt">Loans &amp; Debt</a></li>
+<li><a href="#savings">Savings</a></li>
+<li><a href="#taxes">Taxes</a></li>
+<li><a href="#business">Business</a></li>
+<li><a href="#retirement">Retirement</a></li></ul>
+
+<p align="center"><span class="deskbutton"><button onclick="window.location.href='#currentmortgagerates'" class="styled-button" >See Current Mortgage Rates in Los Angeles</button></span></p>
+<p align="center"><span class="mobilebutton"><button onclick="window.location.href='#currentmortgagerates'" class="styled-button" >See Los Angeles Rates</button></span></p>
+
+
+<a name="realestate"></a>
+<h2>Real Estate Financing Calculators</h2>
+<p><img src="https://www.mortgagecalculator.org/images/calculating-and-saving-for-mortgage-payments.png" width="1300" height="800" alt="Calculating Home Payments and Saving Up a Down Payment."></p>
+    
+	<a href='https://www.mortgagecalculator.org/calculators/mortgage-payment-calculator.php'><h3>Mortgage Payment Calculator</h3></a>
+	<p>This tool allows you to calculate your monthly home loan payments, using various loan terms, interest rates, and loan amounts. It includes advanced features like amortization tables and the ability to calculate a loan including property taxes, homeowners insurance &amp; property mortgage insurance.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/buy-vs-rent-calculator.php'><h3>Rent vs Buy Calculator</h3></a>
+	<p>Are you still renting and considering buying your home?<br /><br /> Use this free online calculator to compare the financial costs and benefits of each option.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/mortgage-principal-calculator.php'><h3>Remaining Home Loan Balance Calculator</h3></a>
+	<p>Want to see how fast you will pay off your home loan? Use this free calculator to figure out what your remaining principal balance &amp; home equity will be after paying on your loan for a specific number of months or years.<br /><br /><strong>Want to Build Equity Faster?</strong> <br /> If you want to add extra payments to your loan to pay it off quicker, please use <a href="https://www.mortgagecalculator.org/calculators/mortgage-length-calculator.php">this calculator</a> to see how quickly you will pay off your loan by making additional payments.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/how-much-home-can-i-afford.php'><h3>How Much Home Can I Afford?</h3></a>
+	<p>This tool uses your current monthly rent payment to estimate how much loan you can afford while spending the same amount each month. We also offer a  <a href="https://www.mortgagecalculator.org/calcs/qualification.php">loan qualifier tool</a> which highlights maximum loan affordability based  on the buyer's income &amp; a tool to compare the <a href="https://www.mortgagecalculator.org/calcs/renting-vs-buying.php">financial benefits of renting or buying</a>.</p><br />
+		
+	<a href='https://www.mortgagecalculator.org/calcs/downpayment.php'><h3>Down Payment</h3></a>
+	<p>Quickly estimate the down payment needed to meet a monthly budget, or use our <a href="https://www.mortgagecalculator.org/calcs/downpayment-savings.php">down payment savings goal planner</a> to figure out how long it will take you to reach a desired down payment.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/mortgage-length-calculator.php'><h3>Loan Payoff Date Estimator</h3></a>
+	<p>Have more money to put down on your home loan? Insert the amount you would like to pay each month &amp; this calculator will figure how many years you save on your home loan given that additional payment versus a loan set to amortize over the initial specified loan period. <br /><br /><strong>Enter Your Principal &amp; Interest Payments</strong><br /> Please note this calculator only uses the principal and interest (P&amp;I) portion of your mortgage payment. If you include property taxes, HOA fees, PMI or other expenses in your loan payment then you will have to subtract those out when using this calculator. For example, if an all-in PITA mortgage payment is $2,000 but only $1,500 of that amount goes to P&amp;I and you want to add an extra $300 monthly to your payments then you would put $1,800 in the monthly payment box below. <br /><br /><strong>Making Extra Payments Starting a Few Years In</strong><br /> If you are already a couple years into your loan and are just beginning to make extra payments then you can adjust the loan amount to whatever your current balance is &amp; set the loan term to how many years you have remaining in the original loan term. So if you were 2.5 years in to a 30-year loan and your balance on a $250,000 loan was $218,600 then you would enter $218,600 as the loan amount and 27.5 years as the loan term. If you are uncertain what your balance is you can use <a href="https://www.mortgagecalculator.org/calculators/mortgage-principal-calculator.php">this calculator</a> to see your current balance.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/what-if-i-pay-more-calculator.php'><h3>Extra Payment Calculator</h3></a>
+	<p><strong>Start Paying More Early &amp; Save Big</strong><br/>Want to build your home equity quicker? Use this free calculator to see how even small extra payments will save you years of payments and thousands of Dollars of additional interest cost. Making extra payments early in the loan saves you much more money over the life of the loan as the extinguised principal is no longer accruing interest for the remainder of the loan. The earlier you begin paying extra the more money you'll save.<br /><br />
+<strong>Making Extra Payments In the Middle of the Loan Term</strong><br />
+If you start making extra payments in the middle of your loan then enter the current loan balance when you started making extra payments and set the loan term for however long you have left in the loan. For example, if you are 3.5 years into a 30-year home loan, you would set the loan term to 26.5 years and you would set the loan balance to whatever amount is shown on your statement. If you do not have a statement to see the current balance you can <a href="https://www.mortgagecalculator.org/calculators/mortgage-principal-calculator.php">calculate the current balance</a> so long as you know when the loan began, how much the loan was for &amp; your rate of interest.<br /><br />
+<strong>More Advanced Calculations?</strong><br />
+This calculator allows you to enter an initial extra payment along with extra monthly payments which coincide with your regular monthly payments. If you want to make irregular extra contributions or contributions which have a different periodicity than your regular payments please see our <a href="https://www.mortgagecalculator.org/calculators/standard-vs-bi-weekly-calculator.php">bi-weekly mortgage calculator</a> (if you are using biweekly payments to make an effective 13th monthly payment) or our <a href="https://www.mortgagecalculator.org/additional-payment-calculator/">advanced additional mortgage payments calculator</a> which allows you to make multiple concurrent extra payments with varying frequencies.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/additional-payment-calculator/'><h3>Advanced Extra Payment Calculator</h3></a>
+	<p>This calculator is similar to the above calculator except it allows you to add a broad range of extra payment types. For example, you could combine an extra weekly payment of $25 for 3 years and then switch over to an extra monthly payment of $150 for 2 years. Or you could do both at the same time along with various one-time payments. If your extra payments will be continuous until the loan is paid off &amp; you intend to make them monthly then you can use <a href="https://www.mortgagecalculator.org/calcs/mortgage-payoff.php">this payoff calculator</a> which includes a graphical layout.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/payment-per-thousand-calculator.php'><h3>Monthly Interest + Principal Cost Per Thousand</h3></a>
+	<p>This calculator shows how much you pay each month, each year &amp; throughout the duration of the loan &mdash; for each $1,000 of mortgage financing.</p><br />		
+
+	<a href='https://www.mortgagecalculator.org/calculators/what-is-the-real-apr-calculator.php'><h3>Calculate Real APR</h3></a>
+	<p>Advertised vs actual home loan interest costs may vary singificantly based on points, origination fees &amp; closing costs. Use this tool to estimate your real mortgage APR (Annual Percentage Rate) inclusive of these other mortgage expenses.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/affordability-calculator.php'><h3>Mortgage Affordability</h3></a>
+	<p><strong>Estimate Home Value &amp; Monthly Mortgage Payments Based on DTI Ratios</strong> <br />Unsure how much you can afford to spend on a house? Use this calculator to figure home loan affordability from the lender's point of view. A table on this page shows how <a href="https://www.mortgagecalculator.org/calculators/affordability-calculator.php#loantypes">different home loan programs have different front-end and back-end ratio requirements</a>.<br /><br /> <strong>Can vs Should</strong><br />The results of this calculator can offer a rough idea of max loan qualification, however for most people it is better not to get close to their max so they have a financial cushion in case of a down turn. Those who are seeking investment returns will usually obtain higher returns in the stock market &amp; stock investments are much more liquid &amp; easier to sell than homes.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/tax-benefits-calculator.php'><h3>Interest Tax Deduction Estimator</h3></a>
+	<p>One of the advantages of real estate investment is that some homeowners may qualify to deduct mortgage interest payments from their income when filing their taxes. This calculator estimates your tax savings after a house purchase.  Financial analysis is provided for an initial period selected by the user &amp; subsequent years throughout the duration of the loan term.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/should-i-refinance.php'><h3>Mortgage Refinancing Calculator</h3></a>
+	<p>Is your current interest rate on your house too high? Use this free tool to view today's best home loan refi rates from top lenders &amp; estimate your savings at a lower APR (Annual Percentage Rate). </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/should-i-pay-points-calculator.php'><h3>Discount Points Savings Estimator</h3></a>
+	<p>Discount points are an upfront fee which homeowners can pay to access lower mortgage rates. This calculator helps you discover if you should consider paying points on your home loan &amp; calculate how quickly the points will pay for themselves.. We also offer a <a href="https://www.mortgagecalculator.org/calcs/discount-points.php">discount points calculator</a> which compares the impact of rolling the cost of points into the loan versus paying points upfront.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/should-i-use-heloc.php'>
+	<h3>Home Equity Line of Credit Calculator</h3></a>
+	<p>Do you currently carry high interest revolving credit on credit cards, cars &amp; other personal loans? You may be able to leverage a home equity line of credit (HELOC) to lower your monthly debt payments.  Lenders typically allow borrowers to receive up to 80% of their home equity, though the precise <a href="https://www.mortgagecalculator.org/calcs/ltv.php">LTV limit</a> will depende on broader market conditions, your credit score and how valuable your customer relationship is to the bank. We also offer HELOC <a href="https://www.mortgagecalculator.org/calcs/heloc.php">qualification</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/heloc-repayment.php">repayment</a> calculators along with a calculator for <a href="https://www.mortgagecalculator.org/calcs/home-equity-debt-consolidation.php">using HELOCs for debt consolidation</a> purposes.<br />
+
+      <a href='https://www.mortgagecalculator.org/calcs/credit-line-qualifier.php'></a></p>
+	<a href='https://www.mortgagecalculator.org/calcs/credit-line-qualifier.php'><h3>Credit Line Qualification</h3></a>
+	<p>See how much equity you  qualify to borrow against your home.</p>
+	<br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/how-much-income-do-i-need-to-qualify.php'><h3>Mortgage Qualification</h3></a>
+	<p><strong>Prequalify Your Debt to Income Ratio</strong><br />Are you wondering if you qualify for a home loan? This pre qualification calculator estimates the minimum required income for a house &amp; will let you know how much housing you qualify for a given income level. <br /><br />
+<strong>DTI Limits For Many Loan Programs</strong><br />
+Please note that federal governmental loans from the VA, the FHA &amp; the USDA have their own loan qualification requirements. We publish an overview table <a href="#loanoptions">comparing various home loan options</a>. <br /><br />
+<strong>Each Bank, Home &amp; Borrower is Unique</strong><br />It should also be noted that this calculator provides a rough estimate &amp; lenders may charge varying rates or decide not to lend depending on variety of factors, including: down payment, house appraisal value, current market conditions, your current credit score &amp; credit history, your outstanding debt obligations &amp; other monthly debt payments.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/closing-costs.php'><h3>Closing Costs</h3></a>
+	<p>This estimator and guide helps home buyers estimate the total closing costs on a home loan.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/mortgage-payment-range.php'><h3>Affordable Payment Range</h3></a>
+	<p>This tool automatically calculates the basic monthly principal &amp; interest payment for 5, 10, 15, 20, 25, 30 &amp; interest-only loans. Using those as a baseline, a person can then enter a minimum &amp; maximum monthly payment to see how long those loans will take to amortize &amp; the total interest cost of those loans. We also offer the following: <a href="https://www.mortgagecalculator.org/calcs/10-year.php">10-year</a>, <a href="https://www.mortgagecalculator.org/calcs/15-year.php">15-year</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/20-year.php">20-year</a> mortgage calculators which include advanced features like PMI, HOA, property taxes &amp; homeowner's insurance. While uncommon loan terms in the United States, some of our visitors have also asked us to offer <a href="https://www.mortgagecalculator.org/calcs/25-year.php">25-year</a>, <a href="https://www.mortgagecalculator.org/calcs/40-year.php">40-year</a>, <a href="https://www.mortgagecalculator.org/calcs/50-year.php">50-year</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/100-year.php">100-year</a> calculators. Loans over 30 years typically are not a great choice for most home buyers.</p><br />
+
+
+	<a href='https://www.mortgagecalculator.org/calculators/second-mortgage-calculator.php'><h3>Second Mortgage Calculator</h3></a>
+	<p>Is property mortgage insurance (PMI) too expensive? Some home owners refinace a second low rate mortgage from another lender to bypass PMI payment requirements. Use this calculator to see if this option would save you money on your home loan.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/cash-out-refinance.php'><h3>Cash Out Refi</h3></a>
+	<p>Use this tool to quickly see how much money you can borrow against your built up home equity.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/ltv.php'><h3>Loan-to-Value</h3></a>
+	<p>Calculate the ratio of your mortgage liens to the appraised value of your property and see how much you qualify to borrow via a cash-out refinance or a home equity loan.</p><br />
+
+
+	<a href='https://www.mortgagecalculator.org/calcs/home-equity-loans.php'><h3>Home Equity Loans</h3></a>
+	<p>Consolidate debts &amp; leverage equity to pay for major home improvements or other big one-time expenses, <a href="https://www.mortgagecalculator.org/calcs/home-equity-vs-auto-loan.php">like vehicles</a>.</p><br />
+
+
+	<a href='https://www.mortgagecalculator.org/calculators/interest-only-calculator.php'><h3>Interest-Only Calculator</h3></a>
+	<p>This tool helps buyers calculate current interest-only payments, but most interest-only loans are adjustable rate mortgages (ARMs). When the housing market is hot many people chase it, buying near the peak with interest-only loans. If home prices continue to climb, one can refinance at a lower rate. However if rates reset higher, so too will payments &mdash; causing home prices to decline &amp; many marginal buyers to lose their equity &amp; perhaps their homes.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/interest-only--with-repayments-calculator.php'><h3>Interest-Only Loan With Additional Payments</h3></a>
+	<p>One problem with interest-only loans is that unless home prices rise the homeowner does not build any equity in their house, which puts them in a precarious position when mortgage rates rise. One way to build a bit of a buffer from market fluctuations is by adding extra payments applied toward your principal.</p><br />
+    
+	<a href='https://www.mortgagecalculator.org/calculators/which-loan-is-better.php'><h3>Mortage Rates Comparison</h3></a>
+	<p>Are you looking at a couple different loan quotes? Use this free mortgage calculator to get a side-by-side view of multiple loan quotes to select the best offer. For each quote you can select different rates, terms, points, origination fees &amp; closing costs. 15-year loans build home equity faster, whereas 30-year mortgages offer lower monthly payments.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/standard-vs-bi-weekly-calculator.php'><h3>Bi-Weekly Mortgage Payments</h3></a>
+	<p>In the early years of a longterm loan, most of the payment is applied toward interest. Home buyers can shave years off their loan by paying bi-weekly &amp; making extra payments. Bi-weekly payments help you pay off principal in an accelerated fashion &mdash; before interest has a chance to compound on it. In making biweekly payments, those 26 annual payments effectively create an additional (13th) month of regular payments in each calendar year.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/arm.php'><h3>Adjustable Rates</h3></a>
+	<p>Provides estimates of monthly payments for loans which periodically reset via adjustable rates. We also offer automated calculators pre-populated for borrowers exploring <a href="https://www.mortgagecalculator.org/calcs/3-1-arm.php">3/1</a>, <a href="https://www.mortgagecalculator.org/calcs/5-1-arm.php">5/1</a>, <a href="https://www.mortgagecalculator.org/calcs/7-1-arm.php">7/1</a>, <a href="https://www.mortgagecalculator.org/calcs/10-1-arm.php">10/1</a>, <a href="https://www.mortgagecalculator.org/calcs/option-arm.php">Pay-Option</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/io-arm.php">Interest-Only ARMs</a>.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/fixed-vs-arm.php'><h3>Adjustable vs Fixed</h3></a>
+	<p>Use this to compare fixed, adjustable and interest-only options side by side.</p><br />
+    
+    <a href='https://www.mortgagecalculator.org/calcs/fha-mortgage-qualifier.php'><h3>FHA Qualifier</h3></a>
+	<p>This tool can help you see if you qualify for an FHA backed loan. We also offer a <a href="https://www.mortgagecalculator.org/calcs/fha-closing-costs.php">FHA closing cost calculator</a> &amp; a guide to <a href="https://www.mortgagecalculator.org/calcs/home-improvement-loan.php">FHA-backed home improvement loans</a>.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/va-loans.php'><h3>VA Loan</h3></a>
+	<p>Quickly estimate your monthly VA loan payments. We also offer a <a href="https://www.mortgagecalculator.org/calcs/va-loan-funding-fee.php">VA funding fee &amp; closing cost calculator</a>.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/usda-loans.php'><h3>USDA Loan</h3></a>
+	<p>Quickly figure monthly USDA loan payments.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/land.php'><h3>Land Loans</h3></a>
+	<p>Considering buying vacant land? This tool will help you estimate monthly payments. We also offer a <a href="https://www.mortgagecalculator.org/calcs/construction-loan.php">construction loan estimator</a> for construction projects.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/balloon.php'><h3>Balloon</h3></a>
+	<p>Calculate monthly payments and loan amortization on a balloon mortgage.</p><br />	
+
+    <a href='https://www.mortgagecalculator.org/calcs/jumbo.php'><h3>Jumbo</h3></a>
+	<p>Calculate monthly payments and loan amortization for loans above the conforming limit.</p><br />	
+    
+    <a href='https://www.mortgagecalculator.org/calcs/super-jumbo.php'><h3>Super Jumbo</h3></a>
+	<p>Estimate monthly payments on high-end luxury homes.</p><br />	
+    
+    <a href='https://www.mortgagecalculator.org/calcs/commission.php'><h3>Commission</h3></a>
+	<p>Estimate what your real estate commissions will be using this free tool.</p><br />
+    
+    <a href='https://www.mortgagecalculator.org/calcs/square-foot.php'><h3>Cost Per Square Foot</h3></a>
+	<p>Estimate purchase cost &amp; annual lease or loan payment cost per square foot.</p><br />		
+    
+    <a href='https://www.mortgagecalculator.org/calcs/1031-exchange.php'><h3>1031 Exchange</h3></a>
+	<p>Calculate your potential deferred tax benefits. We also offer a <a href="https://www.mortgagecalculator.org/calcs/1031-deadline.php">1031 deadline</a> calculator.</p><br />	
+
+    <a href='https://www.mortgagecalculator.org/calcs/commercial.php'><h3>Commercial Property Financing</h3></a>
+	<p>This tool calculates amortization tables and balloon mortgages for commercial properties.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/residential-income.php'><h3>Residential Income Analysis</h3></a>
+	<p>Figure out the profitability of residential properties.</p><br />
+	<a href="https://www.mortgagecalculator.org/calcs/net-seller-proceeds.php"><h3>Net Seller Proceeds</h3></a>
+    <p>Determine how much capital you will have remaining after paying seller closing costs.</p>
+<br />
+    
+	<a href='https://www.mortgagecalculator.org/calcs/uk.php'><h3>UK Mortgage Calculator</h3></a>
+	<p>Calculator for United Kingdom homebuyers which shows variable &amp; interest-only payments side-by-side.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/canadian-mortgage-calculator.php'><h3>Canada Mortgage Calculator</h3></a>
+	<p>This calculator was designed specifically for conventional Canadian mortgages, with semi-annual interest compounding. The results also show the minimum required income for the home buyer.  In addition we offer the following Canada-focused calculators: <a href="https://www.mortgagecalculator.org/calcs/canadian-mortgage-qualifier.php">loan qualifier</a>, <a href="https://www.mortgagecalculator.org/calcs/compare-canadian-mortgages.php">loan comparison</a>, <a href="https://www.mortgagecalculator.org/calcs/canadian.php">basic mortgage</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/canadian-io.php">interest-only loans</a>. We also offer some <a href="https://www.mortgagecalculator.org/calcs/prets-hypothecaires.php">French</a> language calculators including a <a href="https://www.mortgagecalculator.org/calcs/dadmissibilite-pret-hypothecaire.php">loan qualifier</a> &amp; a <a href="https://www.mortgagecalculator.org/calcs/hypotheque-refinancement.php">refi calculator</a>.</p><br />
+	
+	<a href='https://www.mortgagecalculator.org/calcs/australia-mortgage.php'><h3>Australia Mortgage Calculator</h3></a>
+	<p>Home loan tool for Australian people. We also offer an <a href="https://www.mortgagecalculator.org/calcs/australia-io.php">interest-only</a> version.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/calculadora-de-hipotecas.php'><h3>Spanish Mortgage Calculator</h3></a>
+	<p>Home loan estimator in the Spanish language.</p><br />
+
+
+<a name="currentmortgagerates"></a>
+<h2>Current Los Angeles Mortgage Rates</h2>
+<p><strong>How much money could you save? Lock in low rates today!</strong></p>
+<p>The following table shows 30-year fixed-rate mortgage rates in Los Angeles. The rate table also has options which enable you to change the loan amount, location, lending term, switch from purchase to refinancing, or select among adjustable-rate options.</p>
+<div style="width: 100%"><div style="max-width: 100%; text-align:center; margin: auto;">
+<iframe src="https://widgets.icanbuy.com/c/standard/us/en/mortgage/tables/Mortgage.aspx?siteid=0ce53ef9a8469eda&include_text_results=1&loan_type=refi&property_value=300000&loan_amount=240000&loan_product=PERIOD_FIXED_30YEARS&fha=0&va=0&state=CA&zip=90033&city=Los Angeles&military_aff=0&external=mortgagecalculator.org.money.games.ovo.media.sfx_transition.09.ogg" style="width: 100%; border:0px;"></iframe>
+<script src="/js/iframeResizer.min.js" type="text/javascript"></script>
+<script type="text/javascript"> iFrameResize({ log: false, checkOrigin: false })</script>
+</div></div> 
+
+<br />
+
+<a name="automotive"></a>
+<p><img src="https://www.mortgagecalculator.org/images/enthusiastic-car-dealership-guy.png" width="1300" height="800" alt="Enthusiastic Car Dealership."></p>
+<h2>Automotive Calculators</h2>
+
+	<a href='https://www.mortgagecalculator.org/calcs/car.php'><h3>Auto Loans</h3></a>
+	<p>Are you considering buying a new or used car? Use this free calculator to estimate your monthly automotive payments. It includes advice for trade-ins, financing &amp; rebate programs.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/car-affordability.php'><h3>Car Affordability</h3></a>
+	<p>This tools helps you figure out which vehicles are within your budget.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/biweekly-car.php'><h3>Bi-Weekly Car Payments</h3></a>
+	<p>Use this tool to figure out bi-weekly auto loan payments to see how much you can save in interest &amp; how switching to bi-weekly payments can pay off your loan early &amp; prevent you from paying extra interest.</p><br />
+    
+	<a href='https://www.mortgagecalculator.org/calcs/truck.php'><h3>Trucks</h3></a>
+	<p>Buying a pick-up truck? You will like our truck buying guide.</p><br />       
+
+	<a href='https://www.mortgagecalculator.org/calcs/auto-rebates.php'><h3>Rebates vs Low-interest Offers</h3></a>
+	<p>Should you take a low rate offer or a manufacturer rebate? </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/operating-cost.php'><h3>Vehicle Operating Costs</h3></a>
+	<p>Use this to look past the sticker price and evaluate the total cost of ownership of a vehicle. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/lease.php'><h3>Auto Lease</h3></a>
+	<p>This tool will figure your lease payments and other estimated costs of leasing.</p><br />
+    
+	<a href='https://www.mortgagecalculator.org/calcs/lease-vs-buy.php'><h3>Lease or Buy</h3></a>
+	<p>Unsure if leasing makes sense? Compare it side by side with the cost of buying.</p><br />                    
+
+	<a href='https://www.mortgagecalculator.org/calcs/motorcycle.php'><h3>Motorcycles</h3></a>
+	<p>Buying a bike? You will like our motorcycle buying guide.</p><br />                    
+
+	<a href='https://www.mortgagecalculator.org/calcs/rv.php'><h3>Recreational Vehicles</h3></a>
+	<p>Quickly estimate your monthly RV payments.</p><br />                    
+
+	<a href='https://www.mortgagecalculator.org/calcs/boat.php'><h3>Boat Financing</h3></a>
+	<p>Buying a boat or yacht? Use this guide to estimate your monthly payments.</p><br />                    
+
+	<a href='https://www.mortgagecalculator.org/calcs/bad-credit-auto.php'><h3>Bad Credit</h3></a>
+	<p>Have bad credit? Use this guide and tool to estimate your monthly vehicle payments.</p><br /> 
+
+	<a href='https://www.mortgagecalculator.org/calcs/auto-refinance.php'><h3>Auto Refinance</h3></a>
+	<p>Have a high interest car loan? Consider refinancing to save money.</p><br />                    
+
+	<a href='https://www.mortgagecalculator.org/calcs/miles-per-gallon.php'><h3>Fuel Economy</h3></a>
+	<p>Figure out how much you spend on gas and how many miles you get per gallon.</p><br /> 
+
+<a name="creditcards"></a>
+<p><img src="https://www.mortgagecalculator.org/images/hand-holding-three-credit-cards.png" width="1300" height="800" alt="Hand Holding Three Credit Cards."></p>
+<h2>Credit Cards</h2>
+
+	<a href='https://www.mortgagecalculator.org/calcs/credit-cards.php'><h3>Compare Credit Cards</h3></a>
+	<p>Use this tool to figure out which card offer is best for your personal situation. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/credit-card-minimum-payment.php'><h3>Minimum Credit Card Payments</h3></a>
+	<p>Are you making minimum payments on your credit cards? This free online calculator will show you how long it will take to pay off your current debt &amp; the amount of interest you will accrue over that period while only making minimum payments. The interest costs will only spiral further if you keep spending on the card while making the minimum payments, or if you miss a payment and get hit with late fees and other penalties. Many credit cards not only charge interest on their fees, but also charge higher rates of interest for anyone who misses a payment. Repeated missed payments can lead to near usurious interest rates. <br/><br/>If you have significant credit card debt &amp; pay extra each month, you can really eat into principal and save thousands of Dollars in interest costs. If the debts are reasonable, it may also make sense to pay off credit cards &amp; other high interest loans using a home equity loan. If the debt load is too high you may want to talk to a credit counselor to seek alternative options.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calculators/credit-card-payoff-goal.php'><h3>Credit Card Payoff Goals</h3></a>
+	<p>Want to pay off your credit cards early? Use this free credit card repayment calculator to find out how long it will take you to pay off your debt with current payments, and how much you'd be required to pay monthly to eliminate credit card debt sooner.</p><br />
+
+
+
+<p><img src="https://www.mortgagecalculator.org/images/man-breaking-away-from-debt.png" width="1300" height="800" alt="Man Breaking Away From His Debts."></p>
+<a name="debt"></a>
+<h2>Loan &amp; Debt Repayment Goal Calculators</h2>
+
+	<a href='https://www.mortgagecalculator.org/calcs/loan.php'><h3>Basic Loan Calculator</h3></a>
+	<p>Are you considering taking out a loan for a purpose other than buying a car or home? Use this free calculator to estimate the monthly payments and the total interest costs over the life of the loan.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/biweekly.php'><h3>Bi-Weekly Payments</h3></a>
+	<p>Save interest and pay your loan off quicker by making bi-weekly payments.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/amortization.php'><h3>Amortization Schedule</h3></a>
+	<p>Trying to track how quickly you build home equity or pay down other loans? This tool allows you to easily create &amp; print out an amortization chart.</p>
+    <br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/balance.php'><h3>Loan Balance</h3></a>
+	<p>This will help you figure the current balance of a loan if irregular payments have been made.  </p>
+	<br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/loan-breakdown.php'><h3>Loan Breakdown</h3></a>
+	<p>See what percent of a loan payment goes to principal versus interest.  </p>
+	<br />
+
+<a href="https://www.mortgagecalculator.org/calcs/monthly-debt-cost.php"><h3>Monthly Interest Expense</h3></a>
+    <p>See how much you spend each month on interest &amp; figure your blended rate of interest across your debts.</p>
+	<br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/interest-only-payments.php"><h3>Interest-only Payments</h3></a>
+    <p>Track the interest expense of an interest-only loan throughout various time periods.</p>
+	<br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/debt-ratio.php'><h3>Debt Ratio</h3></a>
+	<p>You can figure out your debt to income ratio using this tool.  </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/payoff.php'><h3>Debt Payoff</h3></a>
+	<p>This tool shows you how much time and money you could save by paying off your debts using the "rollover" method.  </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/debt-goal.php'><h3>Debt Goals</h3></a>
+	<p>Are you trying to pay off debt? This helpful calculator helps you create a budget and reach your goals. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/debt-investment.php'><h3>Debt Investment</h3></a>
+	<p>Compare the returns you will get by paying off your debt versus investing elsewhere. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/debt-consolidation.php'><h3>Debt Consolidation</h3></a>
+	<p>Determine how much you can save by consolidating your debts into a single monthly payment.</p>
+	<br />
+    
+	<a href="https://www.mortgagecalculator.org/calcs/debt-snowball.php"><h3>Debt Snowball</h3></a>
+    <p>Leverage the debt snowball method to pay down debt faster.</p>
+	<br />
+    
+	<a href="https://www.mortgagecalculator.org/calcs/student-loan-consolidation.php"><h3>Student Loan Consolidation</h3></a>
+	<p>Tool to help students accelerate school-related &amp; other debt repayment.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/bad-credit.php'><h3>Poor Credit</h3></a>
+	<p>This tool helps people with bad credit figure their borrowing costs &amp; financing options.</p><br />
+      
+	<a href='https://www.mortgagecalculator.org/calcs/compare.php'><h3>Compare Financing Options</h3></a>
+	<p>This tool makes it easy to see the true cost of various loan products side by side.</p><br />    
+
+	<a href="https://www.mortgagecalculator.org/calcs/line-of-credit-payoff.php"><h3>Line of Credit Payoff</h3></a>
+	<p>Explore how long it will take to pay off a revolving credit line.</p><br />    
+    
+
+<a name="savings"></a>
+<p><img src="https://www.mortgagecalculator.org/images/doing-savings-on-a-piggy-bank.png" width="1300" height="800" alt="Saving Money With a Piggy Bank."></p>
+<h2>Saving Money</h2>
+
+	<a href='https://www.mortgagecalculator.org/calcs/savings.php'><h3>Basic Savings Calculator</h3></a>
+	<p>A quick &amp; easy-to-use calculator to estimate nominal savings &amp; interest earned. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/savings-goal.php'><h3>Savings Goals</h3></a>
+	<p>When you think about saving money the first thing that comes to mind is squeezing a few dollars out of your paycheck to deposit into an account. That is certainly a good way to save, but there are many more subtle ways to save that add up just as quickly. This guide helps you reach your goals.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/monthly-savings.php'><h3>Required Monthly Savings</h3></a>
+	<p>When you think about saving money the first thing that comes to mind is squeezing a few dollars out of your paycheck to deposit into an account. That is certainly a good way to save, but there are many more subtle ways to save that add up just as quickly. This guide helps you reach your goals.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/after-tax-savings.php'><h3>Savings After Inflation &amp; Income Tax</h3></a>
+	<p>Inflation and taxes both have a significant impact on compounded savings over the course of many years or decades. Use this tool to see how much interest you've earned, and how much of that value was ultimately consumed by interest. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/compound-savings.php'><h3>Compound Savings</h3></a>
+	<p>The above savings calculator compounds interest annually. Use this utility to see how changing the compounding frequency impacts the returns on regulary monthly deposits. If deposits are made at a frequency other than monthly, please check out our <a href="https://www.mortgagecalculator.org/calcs/compound-interest.php">compound interest calculator</a> which allows you to set various deposit frequencies. We also offer a calculator which compares the returns from compounding vs <a href="https://www.mortgagecalculator.org/calcs/interest-withdrawal.php">regular interest withdrawals</a>.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/budgeting.php'><h3>Budgeting</h3></a>
+	<p>Manage your cash flow by planning your budget. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/net-worth.php'><h3>Net Worth</h3></a>
+	<p>Take a snapshot of your current financial situation by comparing your assets and liabilities. </p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/stock-option-calculator.php'><h3>Stock Options</h3></a>
+	<p>Estimate the future value of your stock options at various company valuation growth rates. We also provide an <a href="https://www.mortgagecalculator.org/calcs/stock-option-grants.php">annual stock option grants calculator</a> to estimate the value of a series of options awarded annually.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/money-market.php'><h3>Money Market Accounts</h3></a>
+	<p>Estimate your interest earnings with a high-interest savings money market account. </p><br />        
+
+	<a href='https://www.mortgagecalculator.org/calcs/cd.php'><h3>Certificate of Deposit</h3></a>
+	<p>Purchasing a certificate of deposit, or CD, is a safe way to invest your money and to get a guaranteed return. </p><br />    
+
+	<a href='https://www.mortgagecalculator.org/calcs/bonds.php'><h3>Bonds</h3></a>
+	<p>Bonds are a common way to build a fixed income stream with a guaranteed return. </p><br />    
+
+	<a href='https://www.mortgagecalculator.org/calcs/asset-allocation.php'><h3>Portfolio Asset Allocation</h3></a>
+	<p>Learn how to create a well balanced investment portfolio.</p><br />   
+
+	<a href='https://www.mortgagecalculator.org/calcs/rate-of-return.php'><h3>Portfolio RoR</h3></a>
+	<p>Estimate the annualized rate of return on your investment portfolio. </p><br />    
+
+	<a href='https://www.mortgagecalculator.org/calcs/college.php'><h3>College Savings</h3></a>
+	<p>This will help you plan how to save for college.</p><br />    
+
+	<a href="https://www.mortgagecalculator.org/calcs/college-savings.php"><h3>College Savings Planner</h3></a>
+	<p>Similar to the above tool, but also has features which make it easy for parents to plan on saving for multiple children who plan to attend college.</p><br />    
+
+	<a href='https://www.mortgagecalculator.org/calcs/paycheck-salary.php'><h3>Salary Conversion</h3></a>
+	<p>Use this to convert your earnings from one periodicity to another.</p><br />   
+
+	<a href='https://www.mortgagecalculator.org/calcs/take-home-paycheck.php'>
+<h3>2018 Take Home Pay</h3></a>
+	<p>Use this to figure your after-tax take home pay. We also offer <a href="https://www.mortgagecalculator.org/calcs/2018-take-home-paycheck.php">2018</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/2017-take-home-paycheck.php">2017</a> net paycheck calculators.</p><br />   
+    
+	<a href='https://www.mortgagecalculator.org/calcs/salary.php'><h3>Real Salary</h3></a>
+	<p>Use this to figure what it costs you to go to work and what you are making after those expenses.</p><br />   
+
+	<a href='https://www.mortgagecalculator.org/calcs/opportunity-cost.php'><h3>Opportunity Cost</h3></a>
+	<p>See how small spending changes can make a big difference.</p><br /> 
+
+<a href='https://www.mortgagecalculator.org/calcs/lifetime-earnings.php'><h3>Lifetime Earnings</h3></a>
+	<p>Calculate your expected income throughout your entire working career.</p><br />   
+
+	<a href='https://www.mortgagecalculator.org/calcs/millionaire.php'><h3>Millionaire</h3></a>
+	<p>See how long it will take you to save a million Dollars.</p><br />   
+
+	<a href='https://www.mortgagecalculator.org/calcs/future-value.php'><h3>Future Value</h3></a>
+	<p>Quickly calculate the future value of an investment before &amp; after accounting for taxes and inflation.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/inflation.php'><h3>Inflation</h3></a>
+	<p>Are your investments keeping up with inflation?</p><br /> 
+
+<a name="taxes"></a> 
+<p><img src="https://www.mortgagecalculator.org/images/man-burdened-by-tax.png" width="1300" height="800" alt="Man Burdened by Taxes."></p>
+<h2>Taxes</h2>
+
+	<a href="https://www.mortgagecalculator.org/calcs/simple-federal-tax-calculator.php">
+	<h3>2019 Simple Federal Tax Refund Calculator</h3></a>
+	<p>A quick &amp; easy-to-use tool which estimates a person's return given their current withholding. We also provide similar calculators for tax years <a href="https://www.mortgagecalculator.org/calcs/2018-simple-federal-tax-calculator.php">2018</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/2017-simple-federal-tax-calculator.php">2017</a>. </p>
+	<br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/marginal-tax-rate-calculator.php">
+<h3>2019 Maginal Tax Rate</h3></a>
+	<p>Figure out which tax bracket your income places you in. You can also compare against last year to see where you would have placed in <a href="https://www.mortgagecalculator.org/calcs/2018-marginal-tax-rate-calculator.php">2018</a>.</p><br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/1040-ez-calculator.php">
+	<h3>2019 1040 EZ</h3></a>
+	<p>A simplified tax calculator for people who do not have a complex array of business arangements &amp; income sources. We also provide similar calculators for tax years <a href="https://www.mortgagecalculator.org/calcs/2018-1040-ez-calculator.php">2018</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/2017-1040-ez-calculator.php">2017</a>.</p>
+	<br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/1040-calculator.php">
+<h3>2019 1040 Tax Calculator</h3></a>
+	<p>A more feature-rich version of the above tool. We also provide similar calculators for tax years <a href="https://www.mortgagecalculator.org/calcs/2018-1040-calculator.php">2018</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/2017-1040-calculator.php">2017</a>.</p>	 <br />
+
+<a href="https://www.mortgagecalculator.org/calcs/payroll.php"><h3>2019 Payroll Deduction Comparison</h3></a>
+	<p>Figure your payroll deductions and estimate your take home pay with various options selected. We also provide similar calculators for tax years <a href="https://www.mortgagecalculator.org/calcs/2018-payroll.php">2018</a> &amp; <a href="https://www.mortgagecalculator.org/calcs/2017-payroll.php">2017</a>.</p>
+	<p>You can also <a href="https://www.mortgagecalculator.org/calcs/paycheck-salary.php#nettogross">estimate the required gross income to achieve a specified net paycheck</a>.</p>
+	<p>Payroll calculators are also available for employees  <a href="https://www.mortgagecalculator.org/calcs/457-payroll.php">enrolled in 457 programs</a> &amp; those using <a href="https://www.mortgagecalculator.org/calcs/fsa.php">flexible spending accounts</a>.</p>
+	 <br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/self-employment-tax-calculator.php">
+	<h3>2019 Self-employment Tax</h3></a>
+	<p>Quickly estimate self-employment taxes. We also offer a calculator covering the <a href="https://www.mortgagecalculator.org/calcs/2018-self-employment-tax-calculator.php">2018</a> tax year.</p>
+	<br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/student-loan-tax-deduction.php"><h3>2019 Student Loan Tax Deduction</h3></a>
+	<p>Estimate the tax deduction associated with your student loans while quickly figuring your tax bracket along with your average &amp; marginal tax rates. We also offer a calculator covering the <a href="https://www.mortgagecalculator.org/calcs/2018-student-loan-tax-deduction.php">2018</a> tax year.</p>
+	<br />
+
+<a name="business"></a> 
+<p><img src="https://www.mortgagecalculator.org/images/coming-to-a-successful-business-deal.png" width="1300" height="800" alt="Shaking on a Successful Business Transaction."></p>
+
+<h2>Business</h2>
+
+    <a href="https://www.mortgagecalculator.org/calcs/basic.php"><h3>Math Calculator</h3></a>
+    <p>Basic calculation tool which can be used to solve common math &amp; financial problems.</p><br />
+    
+    <a href="https://www.mortgagecalculator.org/calcs/financial.php"><h3>Financial</h3></a>
+    <p>A more advanced version of the above calculator which includes many additional business &amp; finace oriented functions.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/small-business-loans.php'><h3>Small Business Financing</h3></a>
+	<p>This guide helps small business survey their options and evaluate the cost of various funding sources.</p><br />	
+
+    <a href="https://www.mortgagecalculator.org/calcs/financial-ratios.php"><h3>Financial Ratios</h3></a>
+    <p>Figure out key financial ratios associated with operating businesses.</p><br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/inventory.php"><h3>Inventory</h3></a>
+    <p>Figure how much you need to keep in stock to never run out of inventory &amp; <a href="https://www.mortgagecalculator.org/calcs/profit-margin.php">estimate your profit margins</a> on various products.</p><br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/business-valuation.php"><h3>Business Valulation</h3></a>
+    <p>Discounted cash flow estimator which figures the value of an operating business.</p><br />
+
+    <a href='https://www.mortgagecalculator.org/calcs/legal-judgment.php'><h3>Legal Judgment</h3></a>
+	<p>Figure out the total amount of a court ordered award with interest, along with the associated monthly payments due if payments are made over time.</p><br />	
+
+
+<a name="retirement"></a> 
+<p><img src="https://www.mortgagecalculator.org/images/happy-old-couple-jogging.png" width="1300" height="801" alt="Happy Elderly Couple Jogging."></p>
+<h2>Retirement Planning</h2>
+
+	<a href='https://www.mortgagecalculator.org/calcs/retirement.php'><h3>Retirement Planning</h3></a>
+	<p>This calculator offers inflation adjusted and unadjusted retirement savings plans based on an expected rate of return, a specified payout period and an estimated rate of inflation.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/retire.php'><h3>Retirement Savings</h3></a>
+	<p>Free tool which help you to estimate the amount of money you will need to have saved by retirement age in order to meet your desired retirement income goals.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/required-minimum-distribution.php'><h3>Required Minimum Distribution</h3></a>
+	<p>See if you are required to take a distribution from your retirement savings &amp; what amount is required if so.</p>
+	<br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/early-retirement-withdrawal.php'><h3>Early Retirement Withdrawal</h3></a>
+	<p>See how much it will cost if you decide to withdraw money from a qualified retirement plan.</p>
+	<br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/retirement-savings.php'><h3>How Long Will Retirement Last? </h3></a>
+	<p>Guide helps retirees see how long they can anticipate their retirement savings to last given their current rate of withdrawals and additions.</p> 
+	<br />
+
+<a href='https://www.mortgagecalculator.org/calcs/life-insurance.php'><h3>Life Insurance Needs</h3></a>
+	<p>Use this tool to estimate how much coverage you will need to protect your loved ones.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/ira-roth.php'><h3>Roth IRA Conversion</h3></a>
+	<p>A Roth IRA allows you to postpone some tax obligations while your money compounds as you save for retirement.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/401k-ira.php'><h3>401K to IRA</h3></a>
+	<p>If you have been saving in a 401K, provided by your employer but have either lost your job or moved on for a better opportunity, then you have an important decision to make. Should you leave your money where it is or roll (transfer) it to another account? And how do you do it without penalties or taxes?</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/tax-deferred.php'><h3>Tax Deferred Investments</h3></a>
+	<p>See how much money you can save by deferring taxes. We also provide a tool to see <a href="https://www.mortgagecalculator.org/calcs/reit.php">the tax-equivalent yield on REITs</a>.</p><br />    
+
+	<a href='https://www.mortgagecalculator.org/calcs/social-security-benefits.php'><h3>Social Security Benefits Estimator</h3></a>
+	<p>Estimate your Social Security income at various retirement ages.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/rerse-mortgage.php'><h3>Reverse Mortgages</h3></a>
+	<p>Augment your retirement income by establishing a line of credit based on the equity in your home that a lender pays to you.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/fixed-annuity.php'><h3>Fixed Annuities</h3></a>
+	<p>Figure the cashflow you can derive from a fixed annuity.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/annuity.php'><h3>Variable Annuities</h3></a>
+	<p>Figure the cashflow you can derive from a variable annuity.</p><br />
+
+	<a href='https://www.mortgagecalculator.org/calcs/present-value.php'><h3>Present Value</h3></a>
+	<p>Understand the current value of a specific sum of money in the future.</p><br />
+
+	<a href="https://www.mortgagecalculator.org/calcs/retirement-shortfall.php"><h3>Retirement Shortfall Calculator</h3></a>
+	<p>See how much more you need to set aside each month to reach your retirement goals.</p><br />
+
+	<p>&nbsp;</p>    
+
+	<p align="center"><img src="https://www.mortgagecalculator.org/images/new.gif"></p><br />
+	
+	<p align="center"><strong>Are you a Realtor, real estate agent, mortgage broker, or real estate professional?</strong></p><br />
+
+	<p align="center">Help your customers buy a home today by <a href="https://www.mortgagecalculator.org/free-tools/">installing this free mortgage calculator on your website</a>.</p><br />
+<p>&nbsp;</p>    
+
+<p>&nbsp;</p>
+ 
+
+<h3>
+ Homeowners May Want to Refinance While Rates Are Low</h3>
+<p>US 10-year Treasury rates have recently fallen to all-time record lows due to the spread of coronavirus driving a risk off sentiment, with other financial rates falling in tandem. Homeowners who buy or refinance at today's low rates may benefit from recent rate volatility.</p>
+
+<p>Are you paying too much for your mortgage?</p> 
+
+<div style="clear: both"></div>     
+     
+<h2 align="center">Find Out What You Qualify For</h2>
+<script>
+   var Fmcty = {
+       values: {
+           "utm_campaign" : "mortgagecalclator.org",
+           "utm_source" : "www.mortgagecalculator.org/404",
+           "utm_medium" : "404",
+        }
+   };
+</script>
+
+<div class="rates">        
+<p align="center">Check your refinance options with a trusted  lender. </p>
+<p align="center">Answer a few questions below and connect with a lender who can help you refinance and save today!</p>
+
+<div id="MRCquickquoteinsert">
+<div style="max-width: 800px; text-align:center; margin: auto;">
+<script type="text/javascript" src="https://www.mortgageresearchcenter.com/mrc.js?desc=refinance" data-mrc="MortgageCalculatorDOTORG" data-mrc-color="#1A87B9" async></script>
+</div>
+</div>
+ 
+</div><!-- ko1 !--> 
+
+
+
+<p>&nbsp;</p>
+
+
+				</div>
+
+			</div>
+		</section>
+	</section>
+	<!--End Content section-->
+
+	<!--Begin Footer section-->
+	<footer class="footer-container">
+		<div class="wrapper">
+			<div class="copyright">
+				&copy; 2007 - 2025 www.MortgageCalculator.org | <a href="https://www.mortgagecalculator.org/contact/"><font color="#FFFFFF">Contact Us</font></a> 
+			</div>
+		</div>
+	</footer>
+	<!--End Footer section-->
+
+	<!-- javascript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="https://www.mortgagecalculator.org/scripts/jquery-1.11.2.min.js"></script>
+	<script src="https://www.mortgagecalculator.org/scripts/jquery-migrate-1.2.1.min.js"></script>
+	<script src="https://www.mortgagecalculator.org/scripts/jquery.meanmenu.js"></script>
+	<script src="https://www.mortgagecalculator.org/scripts/calculators.js"></script>
+    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js" data-pin-hover="true"></script>
+	<script src="https://www.mortgagecalculator.org/mint/?js" type="text/javascript"></script>
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101177635);</script>
+<script async src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101177635ns.gif" /></p></noscript>
+	<script src="https://www.mortgagecalculator.org/scripts/main.js"></script>
+
+
+</body>
+</html>
