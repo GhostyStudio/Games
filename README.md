@@ -9,10 +9,10 @@ Want a game removed? Just contact at contact@ghosty.im , but please don't cause 
 - 2048 ✅
 - OvO ✅
 - Drift Boss ✅
+- Stickman Hook 🟧
 - Snake 🟥
 - Rooftop Snipers 🟥
 - Tiny Fishing 🟥
 - Drive Mad 🟥
 - Iron Snout 🟥
 - Block Blast 🟥
-- Stickman Hook 🟥
