@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safari Dumbshit</title>
+    <style>
+        html, body, div {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+        div {
+            background-color: lightgreen;
+            color: black;
+            font-size: 100px;
+            text-align: center;
+            line-height: 90vh;
+            border-radius: 100px;
+            font-family: 'Rethink Regular', 'Arial', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div id="btn">CLICK HERE</div>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const returnTo = params.get('source') || '/';
+
+        document.getElementById('btn').addEventListener('click', async () => {
+            try {
+                if (document.requestStorageAccess) {
+                    await document.requestStorageAccess();
+                }
+            } catch (err) {
+                console.warn("Storage access refused", err);
+                alert(err);
+            }
+            window.location.href = returnTo;
+        });
+    </script>
+</body>
+</html>

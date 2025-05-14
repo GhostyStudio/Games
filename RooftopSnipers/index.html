@@ -6,6 +6,9 @@
 	<base href=".">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
+
+	<script>(async()=>{const o=navigator.userAgent;if(/Safari/.test(o)&&/iPad|iPhone|Macintosh/.test(o)&&document.hasStorageAccess&&!await document.hasStorageAccess()){const o=encodeURIComponent(location.pathname+location.search);location.href="/storage.html?source="+o}})()</script>
+	
 	<script src="UnityLoader.js"></script>
 	<script>
 		var gameInstance = UnityLoader.instantiate("gameContainer", "rooftop-snipers.json");
