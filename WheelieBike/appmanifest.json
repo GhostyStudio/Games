@@ -1,0 +1,58 @@
+{
+	"name": "Wheelie bike",
+	"description": "make wheelies",
+	"dir": "ltr",
+	"categories": ["games"],
+	"lang": "en-US",
+	"display": "minimal-ui",
+	"orientation": "any",
+	"background_color": "#650e72",
+	"theme_color": "#650e72",
+	"icons": [
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_16/icon-256.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_32/icon-256.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_48/icon-256.png",
+			"sizes": "48x48",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_72/icon-256.png",
+			"sizes": "72x72",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_96/icon-256.png",
+			"sizes": "96x96",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_144/icon-256.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_168/icon-256.png",
+			"sizes": "168x168",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594_192/icon-256.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://construct-static.com/uploads/12198/97ee2d82-c628-43ee-b6bd-20f4afd67a33/c/-1637191594/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
+}
